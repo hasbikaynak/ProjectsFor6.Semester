@@ -1,0 +1,13 @@
+C:\Users\dagon\Desktop\STUDIES\C#\MERGESORT TASK\Mergesoft threaded\Mergesoft threaded\bin\Debug\netcoreapp3.1\Mergesoft threaded.exe
+C:\Users\dagon\Desktop\STUDIES\C#\MERGESORT TASK\Mergesoft threaded\Mergesoft threaded\bin\Debug\netcoreapp3.1\Mergesoft threaded.deps.json
+C:\Users\dagon\Desktop\STUDIES\C#\MERGESORT TASK\Mergesoft threaded\Mergesoft threaded\bin\Debug\netcoreapp3.1\Mergesoft threaded.runtimeconfig.json
+C:\Users\dagon\Desktop\STUDIES\C#\MERGESORT TASK\Mergesoft threaded\Mergesoft threaded\bin\Debug\netcoreapp3.1\Mergesoft threaded.runtimeconfig.dev.json
+C:\Users\dagon\Desktop\STUDIES\C#\MERGESORT TASK\Mergesoft threaded\Mergesoft threaded\bin\Debug\netcoreapp3.1\Mergesoft threaded.dll
+C:\Users\dagon\Desktop\STUDIES\C#\MERGESORT TASK\Mergesoft threaded\Mergesoft threaded\bin\Debug\netcoreapp3.1\Mergesoft threaded.pdb
+C:\Users\dagon\Desktop\STUDIES\C#\MERGESORT TASK\Mergesoft threaded\Mergesoft threaded\obj\Debug\netcoreapp3.1\Mergesoft threaded.csprojAssemblyReference.cache
+C:\Users\dagon\Desktop\STUDIES\C#\MERGESORT TASK\Mergesoft threaded\Mergesoft threaded\obj\Debug\netcoreapp3.1\Mergesoft threaded.AssemblyInfoInputs.cache
+C:\Users\dagon\Desktop\STUDIES\C#\MERGESORT TASK\Mergesoft threaded\Mergesoft threaded\obj\Debug\netcoreapp3.1\Mergesoft threaded.AssemblyInfo.cs
+C:\Users\dagon\Desktop\STUDIES\C#\MERGESORT TASK\Mergesoft threaded\Mergesoft threaded\obj\Debug\netcoreapp3.1\Mergesoft threaded.csproj.CoreCompileInputs.cache
+C:\Users\dagon\Desktop\STUDIES\C#\MERGESORT TASK\Mergesoft threaded\Mergesoft threaded\obj\Debug\netcoreapp3.1\Mergesoft threaded.dll
+C:\Users\dagon\Desktop\STUDIES\C#\MERGESORT TASK\Mergesoft threaded\Mergesoft threaded\obj\Debug\netcoreapp3.1\Mergesoft threaded.pdb
+C:\Users\dagon\Desktop\STUDIES\C#\MERGESORT TASK\Mergesoft threaded\Mergesoft threaded\obj\Debug\netcoreapp3.1\Mergesoft threaded.genruntimeconfig.cache
